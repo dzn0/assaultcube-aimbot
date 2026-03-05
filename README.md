@@ -16,6 +16,7 @@ This project is a lightweight, external tool developed for **AssaultCube v1.2.0.
 * **Linear Interpolation (Smoothing)**: Features an adjustable smoothing factor to transition view angles gradually, mimicking human input.
 * **Real-time Telemetry**: Active console feedback showing Target Entity ID and FOV delta values.
 
+<img width="1783" height="1017" alt="image" src="https://github.com/user-attachments/assets/18cc1250-4bdd-4d4e-841b-2de8f4641bac" />
 
 
 ## ⌨️ Controls & Interface
