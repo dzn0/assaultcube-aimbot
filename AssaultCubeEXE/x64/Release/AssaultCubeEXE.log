@@ -1,0 +1,11 @@
+﻿  AssaultCubeEXE.cpp
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(65,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(76,41): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(81,41): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(122,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(123,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AssaultCubeEXE.vcxproj -> C:\Users\phasm\Downloads\AssaultCubeEXE\x64\Release\AssaultCubeEXE.exe

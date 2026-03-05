@@ -1,0 +1,7 @@
+﻿  AssaultCubeEXE.cpp
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(62,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(74,41): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(79,41): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(130,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\phasm\Downloads\AssaultCubeEXE\AssaultCubeEXE\AssaultCubeEXE.cpp(131,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  AssaultCubeEXE.vcxproj -> C:\Users\phasm\Downloads\AssaultCubeEXE\x64\Debug\AssaultCubeEXE.exe
